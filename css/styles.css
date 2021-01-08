@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.top-container {
+    background-color: #f1f6f9 ;
+    position: relative;
+    padding-top: 100px;
+    opacity: 70%;
+
+}
+/* .middle-container {
+    margin-bottom: 40px;
+} */
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+hr {
+    margin: 50px auto 50px auto;
+    border-style: dotted;
+    border-width: 5px 0 0 0;
+    border-color: gray;
+    width: 4%;
+    opacity: 40%;
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.6rem;
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    margin: 0 auto;
+}
+h2 {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.5rem;
+}
+h3 {
+
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 70px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300;
+}
+.profile {
+    margin: 100px auto 100px auto;
+}
+
+.profile-pic {
+    width: 15%;
+}
+.technical-pic {
+    width: 20%;
+    float: left;
+
+} 
+.programming-pic {
+    width: 20%;
+    margin-right: 100px;
+    float: right;
+}
+
+.skill-row {
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.contact-me {
+    margin: 100px auto 100px auto;
+}
+
+.btn {
+    background: #49DAC0;
+    background-image: -webkit-linear-gradient(top, #49DAC0, #399887);
+    background-image: -moz-linear-gradient(top, #49DAC0, #399887);
+    background-image: -ms-linear-gradient(top, #49DAC0, #399887);
+    background-image: -o-linear-gradient(top, #49DAC0, #399887);
+    background-image: -webkit-gradient(to bottom, #49DAC0, #399887);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    border: solid #33edc5 1px;
+    background: #1ed0c7;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 8px;
+    text-decoration: none;
+ }
+ a {
+     color: #11999E;
+     font-family: 'Merriweather', serif;
+     margin: 5px 10px ;
+     text-decoration: none;
+ }
+ a:hover {
+     color: #EAF6F6;
+ }
+ .copyright {
+    font-family: 'Merriweather', serif;
+    font-size: 0.75rem;
+    color: #EAF6F6;
+    padding: 10px 0;
+ }
